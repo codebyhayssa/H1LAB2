@@ -5,4 +5,4 @@ Versão A do repositório.
 
 Versão B do repositório.
 
-Versão final do repositório (A + B combinados).
+Versão final do repositório (A + B combinados).Linha adicionada por engano.
